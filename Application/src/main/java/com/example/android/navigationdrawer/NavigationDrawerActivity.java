@@ -176,6 +176,9 @@ public class NavigationDrawerActivity extends Activity implements PlanetAdapter.
         if(position == 2) {
             fragment = new MyListFragment();
         }
+        else if(position == 3) {
+        fragment = new MenuPrincipal();
+        }
         else {
             fragment = PlanetFragment.newInstance(position);
         }
