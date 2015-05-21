@@ -1,0 +1,9 @@
+C:\Users\Florian.S\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\classes\debug
+C:\Users\Florian.S\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-1aa0028df3d212aa775ea7fc46358eae09c154f1.jar
+C:\Users\Florian.S\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-2eddf012add982a26db0437b4460ce6cd958fce4.jar
+C:\Users\Florian.S\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\classes-8bed2be6d8d6cd6326ad0dbdfbf9bd61f85c29dc.jar
+C:\Users\Florian.S\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\classes-6b0bf0c5b3cabff592e7daabf768bbf0fc084af6.jar
+C:\Users\Florian.S\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-fc6f1906f0791d2200e18e71873743da621c975a.jar
+C:\Users\Florian.S\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\classes-98afbb7ccecad9fb2224c13fe472819070875510.jar
+C:\Users\Florian.S\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\classes-5f65132dcdb615289713e634fb99caa1ab77e5ac.jar
+C:\Users\Florian.S\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\pre-dexed\debug\classes-1b98e828b1d63d776c8c2cdd5b9df1c11d192032.jar
